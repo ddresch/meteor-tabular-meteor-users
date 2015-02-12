@@ -6,13 +6,13 @@ Like this the loading sequence matters:
 
 ## Working
 
-  dburles:mongo-collection-instances
-	aldeed:tabular
+		dburles:mongo-collection-instances
+		aldeed:tabular
 
 ## Crashes
 
-  dburles:mongo-collection-instances
-	aldeed:tabular
+  	dburles:mongo-collection-instances
+		aldeed:tabular
 
 # Conclusion
 
